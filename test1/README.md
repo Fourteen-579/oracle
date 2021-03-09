@@ -14,7 +14,7 @@
 
 ##### 	执行查询1：
 
-<img src="1.png" style="zoom: 67%;" />
+<img src="./1.png" style="zoom: 67%;" />
 
 ##### 	选择优化后：
 
